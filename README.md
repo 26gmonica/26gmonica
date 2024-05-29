@@ -1,6 +1,6 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Monica Gonzalez-Flores
 
-Computer Engineering Student
+Computer Information Systems Student
 ---------------------------- 
 I am interested in cyber and network security!  
 * 🌍  I'm based in Los Angeles
